@@ -1,0 +1,30 @@
+{
+  "name": "portfoleo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx concurrently \"cd backend && npm run start:dev\" \"cd frontend && npm run dev\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardomleitao/portfoleo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardomleitao/portfoleo/issues"
+  },
+  "homepage": "https://github.com/leonardomleitao/portfoleo#readme",
+  "description": "",
+  "dependencies": {
+    "@nestjs/common": "^11.0.12",
+    "@nestjs/core": "^11.0.12",
+    "@nestjs/platform-express": "^11.0.12",
+    "@prisma/client": "^6.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "prisma": "^6.5.0"
+  }
+}
