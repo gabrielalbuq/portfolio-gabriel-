@@ -38,13 +38,13 @@ Além de apresentar os projetos do desenvolvedor, a aplicação incorpora agente
 1. Clone este repositório:
 
     ```sh
-    git clone https://github.com/portfolio-projetos-dev/portfoleo.git
+    git clone https://github.com/gabrielalbuq/portfolio-gabriel-.git
     ```
 
 2. Acesse o diretório do projeto:
 
     ```sh
-    cd portfoleo
+    cd portfolio-gabriel-main
     ```
 
 3. Acesse sua conta no [Supabase](https://supabase.com) ou crie uma nova conta.
